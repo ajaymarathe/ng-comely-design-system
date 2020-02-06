@@ -18,15 +18,13 @@ Hi there, NG Comely Design System is open souce UI-KIT for Angular lovers based 
 
 ## Quick Start
 ```
+// Install through NPM
+$ npm i ng-comely-design-system --save
+
+OR
+
 //Clone the repo.
-
 $ git clone https://github.com/ajaymarathe/ng-comely-design-system.git  
-
-//After cloning Hit following commands.
-
-$ npm install
-
-$ ng serve
 ```
 
 ## Usage
